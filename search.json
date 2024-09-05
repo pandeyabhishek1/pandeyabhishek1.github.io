@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "sub1.html",
+    "href": "sub1.html",
+    "title": "Untitled",
+    "section": "",
+    "text": "x &lt;- rnorm(50)\ny &lt;- rnorm(50)\nplot(x, y, main = \"Scatter Plot\", pch = 19)"
   }
 ]
